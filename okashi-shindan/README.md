@@ -62,6 +62,16 @@ npm run build
 npm start
 ```
 
+## デプロイ
+
+このアプリを公開するには、以下の手順を参照してください：
+
+1. [デプロイ手順 (DEPLOY.md)](./DEPLOY.md) を確認
+2. GitHubにリポジトリを作成
+3. Vercelでデプロイ（推奨）
+
+詳細は `DEPLOY.md` を参照してください。
+
 ## ライセンス
 
 MIT
