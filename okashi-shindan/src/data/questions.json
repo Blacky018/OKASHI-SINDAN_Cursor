@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "question": "今の気分は？",
+    "options": [
+      { "value": "リラックス", "label": "リラックスしたい" },
+      { "value": "元気になりたい", "label": "元気になりたい" },
+      { "value": "甘いものが欲しい", "label": "甘いものが欲しい" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "今の時間帯は？",
+    "options": [
+      { "value": "朝", "label": "朝" },
+      { "value": "昼", "label": "昼" },
+      { "value": "夜", "label": "夜" },
+      { "value": "深夜", "label": "深夜" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "予算は？",
+    "options": [
+      { "value": "100円以下", "label": "100円以下" },
+      { "value": "200円以下", "label": "200円以下" },
+      { "value": "300円以下", "label": "300円以下" },
+      { "value": "こだわらない", "label": "こだわらない" }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "好みの食感は？",
+    "options": [
+      { "value": "サクサク", "label": "サクサク" },
+      { "value": "ふわふわ", "label": "ふわふわ" },
+      { "value": "しっとり", "label": "しっとり" },
+      { "value": "カリカリ", "label": "カリカリ" }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "甘さの好みは？",
+    "options": [
+      { "value": "甘め", "label": "甘め" },
+      { "value": "控えめ", "label": "控えめ" },
+      { "value": "苦め", "label": "苦め" }
+    ]
+  }
+]
+

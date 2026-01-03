@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "チョコレート",
+    "category": "チョコレート",
+    "description": "濃厚で滑らかな味わいのチョコレート。リラックスしたい時や甘いものが欲しい時に最適です。",
+    "price_range": "100-200円",
+    "texture": ["しっとり"],
+    "sweetness": "甘め",
+    "mood": ["リラックス", "甘いものが欲しい"],
+    "time": ["昼", "夜"],
+    "image": "/images/chocolate.jpg",
+    "recommendation": "疲れた時やリラックスしたい時にぴったり。濃厚な味わいで心が落ち着きます。"
+  },
+  {
+    "id": 2,
+    "name": "クッキー",
+    "category": "クッキー",
+    "description": "サクサクとした食感が楽しめるクッキー。お茶やコーヒーと一緒にどうぞ。",
+    "price_range": "100-300円",
+    "texture": ["サクサク"],
+    "sweetness": "控えめ",
+    "mood": ["リラックス", "元気になりたい"],
+    "time": ["朝", "昼", "夜"],
+    "image": "/images/cookie.jpg",
+    "recommendation": "サクサクした食感が心地よく、どんな時間帯でも楽しめます。"
+  },
+  {
+    "id": 3,
+    "name": "キャンディ",
+    "category": "キャンディ",
+    "description": "甘くて爽やかなキャンディ。気分をリフレッシュしたい時に最適です。",
+    "price_range": "50-150円",
+    "texture": ["カリカリ"],
+    "sweetness": "甘め",
+    "mood": ["元気になりたい"],
+    "time": ["昼", "夜"],
+    "image": "/images/candy.jpg",
+    "recommendation": "甘い味で気分が上がります。仕事や勉強の合間にどうぞ。"
+  },
+  {
+    "id": 4,
+    "name": "ケーキ",
+    "category": "ケーキ",
+    "description": "ふわふわでしっとりとした食感のケーキ。特別な日にぴったりです。",
+    "price_range": "300-500円",
+    "texture": ["ふわふわ", "しっとり"],
+    "sweetness": "甘め",
+    "mood": ["リラックス", "甘いものが欲しい"],
+    "time": ["昼", "夜"],
+    "image": "/images/cake.jpg",
+    "recommendation": "特別な気分を味わいたい時に。ふわふわの食感が幸せを運んできます。"
+  },
+  {
+    "id": 5,
+    "name": "ポテトチップス",
+    "category": "スナック",
+    "description": "カリカリとした食感が楽しいポテトチップス。おやつタイムに最適です。",
+    "price_range": "100-200円",
+    "texture": ["カリカリ"],
+    "sweetness": "控えめ",
+    "mood": ["元気になりたい"],
+    "time": ["昼", "夜", "深夜"],
+    "image": "/images/potato-chips.jpg",
+    "recommendation": "カリカリした食感で気分転換に最適。夜食にもぴったりです。"
+  },
+  {
+    "id": 6,
+    "name": "マカロン",
+    "category": "洋菓子",
+    "description": "色鮮やかで上品な味わいのマカロン。見た目も楽しめるお菓子です。",
+    "price_range": "200-400円",
+    "texture": ["ふわふわ"],
+    "sweetness": "甘め",
+    "mood": ["リラックス", "甘いものが欲しい"],
+    "time": ["昼", "夜"],
+    "image": "/images/macaron.jpg",
+    "recommendation": "美しい見た目と上品な味わいで、特別な気分を味わえます。"
+  },
+  {
+    "id": 7,
+    "name": "和菓子（大福）",
+    "category": "和菓子",
+    "description": "もちもちとした食感が特徴の大福。日本の伝統的な味わいです。",
+    "price_range": "100-300円",
+    "texture": ["しっとり"],
+    "sweetness": "控えめ",
+    "mood": ["リラックス"],
+    "time": ["朝", "昼", "夜"],
+    "image": "/images/daifuku.jpg",
+    "recommendation": "もちもちの食感が心地よく、和の心を感じられる一品です。"
+  },
+  {
+    "id": 8,
+    "name": "アイスクリーム",
+    "category": "アイス",
+    "description": "冷たくて甘いアイスクリーム。暑い日や甘いものが欲しい時に最適です。",
+    "price_range": "100-300円",
+    "texture": ["しっとり"],
+    "sweetness": "甘め",
+    "mood": ["リラックス", "元気になりたい", "甘いものが欲しい"],
+    "time": ["昼", "夜"],
+    "image": "/images/ice-cream.jpg",
+    "recommendation": "冷たくて甘い味わいで、気分をリフレッシュできます。"
+  }
+]
+
