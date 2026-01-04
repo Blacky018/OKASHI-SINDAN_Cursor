@@ -1,7 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-}
-
-module.exports = nextConfig
-
+    output: "export",        // 静的書き出し
+    basePath: "/OKASHI-SINDAN_Cursor",
+    assetPrefix: "/OKASHI-SINDAN_Cursor/",
+  };
+  
+  module.exports = nextConfig;
+  
